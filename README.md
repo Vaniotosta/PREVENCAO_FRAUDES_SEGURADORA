@@ -1,6 +1,6 @@
 # Prevenção à Fraude em Seguros
 ### Machine Learning | Python | Scikit-learn | MLflow | Streamlit
-link do APP: prevencaofraudesseguradora-izcqgczwj7ph3mbzbejydz
+link do APP: https://prevencaofraudesseguradora-izcqgczwj7ph3mbzbejydz.streamlit.app/
 
 ## Sobre o projeto
 
