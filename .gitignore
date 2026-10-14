@@ -1,0 +1,29 @@
+# Ambientes Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Segredos e configurações locais
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# MLflow local
+mlflow.db
+mlflow.db-shm
+mlflow.db-wal
+mlruns/
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
+
+.claude/
+
+
+CLAUDE.md

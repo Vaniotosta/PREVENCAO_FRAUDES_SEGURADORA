@@ -1,0 +1,18 @@
+{
+    "modelo": "Regressão Logística",
+    "features": [
+        "sinistros_3_ou_mais",
+        "contratacao_recente",
+        "sinistro_valor_alto",
+        "comunicacao_tardia",
+        "ocorrencia_madrugada"
+    ],
+    "limite_valor_dev": 17566.075999999997,
+    "limiar_classificacao": 0.06,
+    "roc_auc_teste": 0.5987,
+    "pr_auc_teste": 0.0638,
+    "precisao_teste": 0.0723,
+    "recall_teste": 0.1713,
+    "f1_teste": 0.1016,
+    "observacao": "Modelo experimental treinado com dados sintéticos. Resultados de teste documentados para referência."
+}
