@@ -1,0 +1,29 @@
+{
+    "modelo": "RandomForestClassifier",
+    "limiar": 0.5,
+    "criterio": "maior F1 na validacao",
+    "divisao": {
+        "treino": 0.6,
+        "validacao": 0.2,
+        "teste": 0.2
+    },
+    "metricas_teste": {
+        "roc_auc_teste": 0.5676730657358929,
+        "pr_auc_teste": 0.05779626520554937,
+        "precisao_teste": 0.05458089668615984,
+        "recall_teste": 0.4666666666666667,
+        "f1_teste": 0.09773123909249563,
+        "taxa_sinalizados_teste": 0.38475,
+        "limiar_escolhido_validacao": 0.5
+    },
+    "matriz_confusao": [
+        [
+            2365,
+            1455
+        ],
+        [
+            96,
+            84
+        ]
+    ]
+}

@@ -7,7 +7,7 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Segredos e configurações locais
+# Segredos e configuracoes locais
 .env
 .env.*
 !.env.example
@@ -19,11 +19,10 @@ mlflow.db-shm
 mlflow.db-wal
 mlruns/
 
-# Arquivos temporários
+# Arquivos temporarios
 .DS_Store
 Thumbs.db
 
+# Configuracoes locais de IA
 .claude/
-
-
 CLAUDE.md
